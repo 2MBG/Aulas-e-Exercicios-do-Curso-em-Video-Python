@@ -7,7 +7,7 @@ print(end='\n')
 for contagem in range(0, 2): # O número de vezes que será repetido
     print('Marcelo Martins')
 
-print('\nTHE GOD PROGRAMMER\n')
+print('\nTHE PROGRAMMER GOD\n')
 
 ###################################################################
 
