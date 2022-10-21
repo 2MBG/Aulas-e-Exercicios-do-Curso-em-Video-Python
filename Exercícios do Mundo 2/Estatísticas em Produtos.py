@@ -45,8 +45,7 @@ while True:
     print(end='\n')
 
     while not continuar == 'S' and not continuar == 'N':
-        continuar = str(input(
-            '\033[31mOpção inválida.\033[m Quer continuar adicionando itens ao carrinho? [S/N] ')).upper().strip()
+        continuar = str(input('\033[31mOpção inválida.\033[m Quer continuar adicionando itens ao carrinho? [S/N] ')).upper().strip()
 
     if continuar == 'N':
         print('-=' * 30)
