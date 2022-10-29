@@ -7,7 +7,7 @@ contador = 1
 
 print(end='\n')
 
-while contador <= 10: # Vai contar até 10
+while contador <= 10: # Vai contar até 10 termos
     print(f'{termo} → ', end='')
     termo = termo + razão
     contador = contador + 1
