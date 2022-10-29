@@ -1,5 +1,5 @@
 primeiro = int(input('\n\033[36;1mPrimeiro termo:\033[m '))
-razão = int(input('\033[36;1mRazão:\033[m ')) # De quanto em quanto serão pulados
+razão = int(input('\033[36;1mRazão:\033[m ')) # De quanto em quanto serão contados
 décimo = primeiro + 10 * razão
 
 print(end='\n')
