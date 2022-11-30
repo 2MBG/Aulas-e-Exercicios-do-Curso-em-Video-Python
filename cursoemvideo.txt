@@ -1,0 +1,4 @@
+Marcelo Martins;20
+Stephen Hawking;76
+Alan Turing;41
+Ada Lovelace;36
