@@ -23,11 +23,11 @@ while True:
     
     print(f'\nVocê jogou {jogador}')
     sleep(1)
-    print(f'O computador jogou {computador}')
+    print(f'\nO computador jogou {computador}')
     sleep(1)
-    print(f'O total é igual a {total}')
+    print(f'\nO total é igual a {total}')
     sleep(1)
-    print('Ou seja...\n')
+    print('\nOu seja...\n')
     sleep(1)
     
     if escolha == 'P': # Par
