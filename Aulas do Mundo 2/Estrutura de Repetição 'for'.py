@@ -7,14 +7,14 @@ print(end='\n')
 for contagem in range(0, 2): # O número de vezes que será repetido
     print('Marcelo Martins')
 
-print('\nTHE PROGRAMMER GOD\n')
+print('\nTHE PROGRAMMER\n')
 
 ###################################################################
 
 soma = 0
 
 for contagem in range(0, 2):
-    número = int(input('Digite um número: '))
+    número = int(input(f'Digite um número: '))
     soma = soma + número
 
 print(f'\nA soma desses números é igual a {soma}.\n')
